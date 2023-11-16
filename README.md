@@ -20,6 +20,8 @@ _GitHub Copilot can help you code by offering autocomplete-style suggestions rig
   Review what we learned, ask for feedback, provide next steps.
 -->
 
+<!--End-->
+
 ## Finish
 
 _Congratulations friend, you've completed this course!_
